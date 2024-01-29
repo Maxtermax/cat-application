@@ -1,0 +1,18 @@
+[
+    {
+        "name": "As it was",
+        "src": "",
+        "author": "Harry styles",
+        "description": "Mock description",
+        "duration": 70,
+        "id": 1
+    },
+    {
+        "name": "Watermelon Sugar",
+        "src": "",
+        "author": "Harry styles",
+        "description": "Mock description",
+        "duration": 100,
+        "id": 2
+    }
+]
